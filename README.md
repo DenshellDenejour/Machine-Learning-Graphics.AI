@@ -1,1 +1,1 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6EF727&width=435&lines=Hi%2C+i'm+Denshell+Denejour;a+Computer+Programmer+;and+Aerospace+Engineer;Welcome+to+my+web!!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6EF727&width=435&lines=Hi%2C+i'm+Denshell+Denejour;a+Computer+Programmer+;and+Aerospace+Engineer;Welcome+to+my+Github!!" alt="Typing SVG" /></a>
